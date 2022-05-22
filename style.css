@@ -1,0 +1,24 @@
+body{
+background-size: cover;
+text-align: center;
+font-family:fantasy;
+}
+
+h1{
+font-size: xx-large;
+}
+button{  
+padding:10px;
+width: 400px; 
+height: 100px;
+border-radius: 50px;
+font-size: 40px;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    border-color: black;
+    border-width: 2px;
+    border-style:solid;
+    }
